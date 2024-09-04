@@ -35,6 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/kareempogba0/order_summary_component)
+- Live Site URL: [Add live site URL here](https://kareempogba0.github.io/order_summary_component/)
 
 ## My process
 
